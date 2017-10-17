@@ -1,0 +1,22 @@
+{
+  "name": "farm-ico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorpic/farm-ico.git"
+  },
+  "author": "Max Taldykin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorpic/farm-ico/issues"
+  },
+  "homepage": "https://github.com/jorpic/farm-ico#readme"
+}
